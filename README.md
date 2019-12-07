@@ -3,4 +3,5 @@
   <p>
     <strong>Meta project for the <code>interfaces-rs</code> organization</strong>
   </p>
+  <img src="assets/logo.png" />
 </div>
